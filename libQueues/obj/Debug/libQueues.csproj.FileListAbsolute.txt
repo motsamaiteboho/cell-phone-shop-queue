@@ -1,0 +1,5 @@
+C:\Users\Motsa\OneDrive\Desktop\CSIS2614\optional proects\example\libQueues\bin\Debug\libQueues.dll
+C:\Users\Motsa\OneDrive\Desktop\CSIS2614\optional proects\example\libQueues\bin\Debug\libQueues.pdb
+C:\Users\Motsa\OneDrive\Desktop\CSIS2614\optional proects\example\libQueues\obj\Debug\libQueues.csprojAssemblyReference.cache
+C:\Users\Motsa\OneDrive\Desktop\CSIS2614\optional proects\example\libQueues\obj\Debug\libQueues.dll
+C:\Users\Motsa\OneDrive\Desktop\CSIS2614\optional proects\example\libQueues\obj\Debug\libQueues.pdb
